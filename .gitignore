@@ -1,0 +1,8 @@
+# Logs
+npm-debug.log
+
+# Dependencies
+node_modules
+
+# VuePress dist
+.vuepress/dist
