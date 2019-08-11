@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "vuepress dev .",
-    "build": "vuepress bild .",
+    "build": "vuepress build .",
     "deploy": "push-dir --dir=.vuepress/dist --branch=master --cleanup"
   },
   "author": "TesoMayn <me@TesoMayn.com> (https://TesoMayn.com)",
