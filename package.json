@@ -1,0 +1,16 @@
+{
+  "name": "townofsalem.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress bild .",
+    "deploy": "push-dir --dir=.vuepress/dist --branch=master --cleanup"
+  },
+  "author": "TesoMayn <me@TesoMayn.com> (https://TesoMayn.com)",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "push-dir": "^0.4.1",
+    "vuepress": "^1.0.3"
+  }
+}
